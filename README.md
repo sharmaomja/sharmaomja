@@ -1,36 +1,103 @@
-<div style="font-family: 'Segoe UI', sans-serif; line-height: 1.6; max-width: 800px; margin: auto; color: #333;">
-  <h2 style="color: #0a66c2;">What I'm Building</h2>
+<style>
+  .profile-section {
+    font-family: 'Segoe UI', sans-serif;
+    max-width: 800px;
+    margin: 2rem auto;
+    color: #333;
+    padding: 2rem;
+    border-radius: 12px;
+    background: #fefefe;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.06);
+    line-height: 1.8;
+  }
+
+  .profile-section h2 {
+    color: #6c63ff;
+    font-size: 1.6rem;
+    margin-top: 2rem;
+    margin-bottom: 0.8rem;
+    position: relative;
+  }
+
+  .profile-section h2::before {
+    content: "✨";
+    position: absolute;
+    left: -1.8rem;
+  }
+
+  .profile-section ul {
+    list-style: none;
+    padding-left: 0;
+    margin: 0 0 1.5rem 0;
+  }
+
+  .profile-section ul li {
+    position: relative;
+    padding-left: 1.8rem;
+    margin-bottom: 0.6rem;
+  }
+
+  .profile-section ul li::before {
+    content: "💡";
+    position: absolute;
+    left: 0;
+    top: 0.1rem;
+  }
+
+  .profile-section p {
+    margin: 1rem 0;
+    font-size: 1rem;
+  }
+
+  .highlight {
+    color: #f06292;
+    font-weight: 600;
+  }
+
+  @media (max-width: 600px) {
+    .profile-section {
+      padding: 1rem;
+    }
+
+    .profile-section h2 {
+      font-size: 1.4rem;
+    }
+  }
+</style>
+
+<div class="profile-section">
+  <h2>What I'm Building</h2>
   <ul>
-    <li>Scalable full-stack apps using <strong>MERN</strong> and <strong>Django</strong></li>
+    <li>Scalable full-stack apps using <span class="highlight">MERN</span> and <span class="highlight">Django</span></li>
     <li>Real-time multilingual integrations</li>
-    <li>AI-powered tools using <strong>OpenAI API</strong>, <strong>GPT-4</strong>, and <strong>LangChain</strong></li>
+    <li>AI-powered tools using <span class="highlight">OpenAI API</span>, <span class="highlight">GPT-4</span>, and <span class="highlight">LangChain</span></li>
     <li>Content summarization platforms & booking applications</li>
   </ul>
 
-  <h2 style="color: #0a66c2;">What I'm Open to Collaborate On</h2>
+  <h2>What I'm Open to Collaborate On</h2>
   <ul>
-    <li>Cloud-first applications with <strong>MERN</strong>, <strong>Django</strong>, or hybrid stacks</li>
+    <li>Cloud-first applications with <span class="highlight">MERN</span>, <span class="highlight">Django</span>, or hybrid stacks</li>
     <li>AI/ML-integrated web applications</li>
     <li>Real-time systems & chatbot architectures</li>
   </ul>
 
-  <h2 style="color: #0a66c2;">What I'm Currently Exploring</h2>
+  <h2>What I'm Currently Exploring</h2>
   <ul>
     <li>Agentic AI & goal-driven workflows</li>
-    <li><strong>LangChain</strong> for chaining LLM calls</li>
-    <li>Vector DBs like <strong>Pinecone</strong>, <strong>ChromaDB</strong></li>
-    <li>Prompt engineering and <strong>LLMOps</strong></li>
-    <li>Immersive UIs with <strong>Three.js</strong> and <strong>Next.js</strong></li>
+    <li><span class="highlight">LangChain</span> for chaining LLM calls</li>
+    <li>Vector DBs like <span class="highlight">Pinecone</span>, <span class="highlight">ChromaDB</span></li>
+    <li>Prompt engineering and <span class="highlight">LLMOps</span></li>
+    <li>Immersive UIs with <span class="highlight">Three.js</span> and <span class="highlight">Next.js</span></li>
   </ul>
 
-  <h2 style="color: #0a66c2;">Where I’d Appreciate Insight</h2>
+  <h2>Where I’d Appreciate Insight</h2>
   <ul>
     <li>Feedback on AI or health-tech product ideas</li>
     <li>Creating a hybrid tech + design portfolio</li>
     <li>Optimizing MERN stacks for scale and performance</li>
   </ul>
 
-  <h2 style="color: #0a66c2;">What You Can Ask Me</h2>
+  <h2>What You Can Ask Me</h2>
   <ul>
     <li>Real-time applications with MERN/Django</li>
     <li>Integrating AI in React + Python environments</li>
@@ -39,17 +106,16 @@
     <li>Remote work and agile team workflows</li>
   </ul>
 
-  <h2 style="color: #0a66c2;">Who I Am</h2>
+  <h2>Who I Am</h2>
   <p>
-    I’m <strong>Omja Ujesha Jetshree</strong>, a full-stack developer focused on building scalable, AI-powered products.
+    I’m <span class="highlight">Omja Ujesha Jetshree</span>, a full-stack developer focused on building scalable, AI-powered products.
     My work bridges deep MERN & Python ecosystems with intelligent features like NLP pipelines and multilingual support.
-    From real-time booking systems to GPT-driven platforms, my projects are built with clarity, performance, and usability at the core.
   </p>
   <p>
+    From real-time booking systems to GPT-driven platforms, my projects are built with clarity, performance, and usability at the core.
     Currently diving into agentic AI, LangChain, and advanced retrieval systems. Always excited to collaborate, contribute, and explore the intersection of design, intelligence, and usability.
   </p>
 </div>
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/omja.sharmaaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/omjasharma) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:omjasharma15@gmail.com) 
@@ -65,10 +131,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=sharmaomja&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
