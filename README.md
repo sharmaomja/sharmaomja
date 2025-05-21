@@ -1,4 +1,54 @@
-🚀 I’m currently working on<br>Scalable full-stack apps using MERN and Django<br>Real-time multilingual integrations<br>AI-powered applications with GPT-4, OpenAI API, and LangChain<br>A content-summarization newsletter platform and appointment booking apps<br><br>🤝 I’m looking to collaborate on<br>AI/ML-integrated web applications<br>Real-time systems and chatbot development<br>Scalable cloud-first apps using MERN, Django, or hybrid stacks<br><br>🌱 I’m currently learning<br>Agentic AI systems for building intelligent, goal-driven workflows<br>LangChain for chaining LLM calls in production-ready apps<br>Vector Databases (like Pinecone, ChromaDB) for semantic search<br>Advanced prompt engineering and LLMOps<br>Three.js & Next.js for immersive UI/UX and portfolio building<br><br>💡 I’m looking for help with<br>Getting feedback on product ideas, especially in the AI & health-tech space<br>Building a strong tech + design hybrid portfolio<br>Scaling MERN applications with performance in mind<br><br>💬 Ask me about<br>Building real-time apps with MERN or Django<br>Integrating AI with React & Python backends<br>End-to-end cloud deployments (AWS, GCP, Digital Ocean)<br>UI/UX design best practices for scalable apps<br>Working remotely and managing agile teams across time zones<br><br>🧠 About Me<br>I’m Omja Ujesha Jetshree, a full-stack developer with deep roots in both the MERN stack and Python ecosystems, currently crafting scalable applications that fuse traditional backend systems with cutting-edge AI integrations. With hands-on experience in multilingual support, real-time architectures, cloud deployment (AWS, GCP), and NLP pipelines, I bring a builder's mindset and a researcher’s curiosity to every project.<br>Whether I’m prototyping an AI chatbot, optimizing a booking platform, or developing hate-speech classifiers — I focus on products that are impact-driven, accessible, and intelligent.<br>Currently exploring agentic AI, LangChain, and advanced vector-based retrieval systems. Always eager to collaborate, learn, and contribute!<br><br>
+<div style="font-family: 'Segoe UI', sans-serif; line-height: 1.6; max-width: 800px; margin: auto; color: #333;">
+  <h2 style="color: #0a66c2;">What I'm Building</h2>
+  <ul>
+    <li>Scalable full-stack apps using <strong>MERN</strong> and <strong>Django</strong></li>
+    <li>Real-time multilingual integrations</li>
+    <li>AI-powered tools using <strong>OpenAI API</strong>, <strong>GPT-4</strong>, and <strong>LangChain</strong></li>
+    <li>Content summarization platforms & booking applications</li>
+  </ul>
+
+  <h2 style="color: #0a66c2;">What I'm Open to Collaborate On</h2>
+  <ul>
+    <li>Cloud-first applications with <strong>MERN</strong>, <strong>Django</strong>, or hybrid stacks</li>
+    <li>AI/ML-integrated web applications</li>
+    <li>Real-time systems & chatbot architectures</li>
+  </ul>
+
+  <h2 style="color: #0a66c2;">What I'm Currently Exploring</h2>
+  <ul>
+    <li>Agentic AI & goal-driven workflows</li>
+    <li><strong>LangChain</strong> for chaining LLM calls</li>
+    <li>Vector DBs like <strong>Pinecone</strong>, <strong>ChromaDB</strong></li>
+    <li>Prompt engineering and <strong>LLMOps</strong></li>
+    <li>Immersive UIs with <strong>Three.js</strong> and <strong>Next.js</strong></li>
+  </ul>
+
+  <h2 style="color: #0a66c2;">Where I’d Appreciate Insight</h2>
+  <ul>
+    <li>Feedback on AI or health-tech product ideas</li>
+    <li>Creating a hybrid tech + design portfolio</li>
+    <li>Optimizing MERN stacks for scale and performance</li>
+  </ul>
+
+  <h2 style="color: #0a66c2;">What You Can Ask Me</h2>
+  <ul>
+    <li>Real-time applications with MERN/Django</li>
+    <li>Integrating AI in React + Python environments</li>
+    <li>End-to-end deployments on AWS, GCP, DO</li>
+    <li>UI/UX systems design for growth-ready apps</li>
+    <li>Remote work and agile team workflows</li>
+  </ul>
+
+  <h2 style="color: #0a66c2;">Who I Am</h2>
+  <p>
+    I’m <strong>Omja Ujesha Jetshree</strong>, a full-stack developer focused on building scalable, AI-powered products.
+    My work bridges deep MERN & Python ecosystems with intelligent features like NLP pipelines and multilingual support.
+    From real-time booking systems to GPT-driven platforms, my projects are built with clarity, performance, and usability at the core.
+  </p>
+  <p>
+    Currently diving into agentic AI, LangChain, and advanced retrieval systems. Always excited to collaborate, contribute, and explore the intersection of design, intelligence, and usability.
+  </p>
+</div>
 
 
 ## 🌐 Socials:
