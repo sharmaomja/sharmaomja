@@ -2,7 +2,7 @@
   <h2 style="color: #0a66c2;">What I'm Building</h2>
   <ul>
     <li>Scalable full-stack apps using <strong>MERN</strong> and <strong>Django</strong></li>
-    <li>Real-time multilingual integrations</li>
+<!--     <li>Real-time multilingual integrations</li> -->
     <li>AI-powered tools using <strong>OpenAI API</strong>, <strong>GPT-4</strong>, and <strong>LangChain</strong></li>
     <li>Content summarization platforms & booking applications</li>
   </ul>
