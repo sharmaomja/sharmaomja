@@ -29,12 +29,6 @@
 - LLMOps + observability
 - Edge / real-time inference
 
-## 💡 Ask me about
-- Production RAG systems
-- Voice AI stacks
-- Scaling AI apps
-- AI + UX
-
 ## 👤 About
 Omja — full-stack dev building AI systems with MERN + Python.  
 Focused on RAG, voice, and real-time AI.
