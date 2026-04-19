@@ -12,36 +12,32 @@
 
 ---
 
-## 🚀 What I build & collaborate on
+## 💻 ## 🚀 What I build
+- AI-native apps (MERN / Django + LLMs)
+- Voice + chat interfaces (real-time)
+- RAG systems (vector search, hybrid retrieval)
+- Scalable backends (async, event-driven)
 
-- Full‑stack apps (MERN / Django) • AI tools (OpenAI, GPT‑4, LangChain)  
-- Content summarization & booking platforms • Cloud‑first apps  
-- AI/ML web apps • Real‑time systems & chatbots
+## 🎙️ Voice + AI
+- STT → LLM → TTS pipelines
+- Streaming + low-latency responses
+- Context-aware assistants (memory + tools)
 
-## 🧠 Currently exploring
+## 🧠 Exploring
+- Agentic workflows (multi-step, tool use)
+- Advanced RAG (reranking, evals)
+- LLMOps + observability
+- Edge / real-time inference
 
-- Agentic AI & goal‑driven workflows • LangChain chaining  
-- Vector DBs (Pinecone, ChromaDB) • Prompt engineering & LLMOps  
-- Immersive UIs with Three.js + Next.js
+## 💡 Ask me about
+- Production RAG systems
+- Voice AI stacks
+- Scaling AI apps
+- AI + UX
 
-## 💡 I appreciate insight on
-
-- Feedback for AI / health‑tech product ideas  
-- Building a hybrid tech + design portfolio  
-- Optimising MERN stacks for scale & performance
-
-## 📬 Ask me about
-
-- Real‑time apps with MERN / Django • AI integration in React + Python  
-- End‑to‑end deployments on AWS, GCP, DigitalOcean  
-- UI/UX systems for growth‑ready apps • Remote & agile workflows
-
-## 👤 Who I am
-
-I'm Omja — full‑stack developer bridging MERN & Python with NLP pipelines and multilingual support.  
-Currently diving into agentic AI, LangChain, and advanced retrieval systems.  
-Let’s build something impactful.
-
+## 👤 About
+Omja — full-stack dev building AI systems with MERN + Python.  
+Focused on RAG, voice, and real-time AI.
 ---
 
 ## 💻 Tech stack
