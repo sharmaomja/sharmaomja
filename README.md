@@ -12,7 +12,7 @@
 
 ---
 
-## 💻 ## 🚀 What I build
+## 💻 What I build
 - AI-native apps (MERN / Django + LLMs)
 - Voice + chat interfaces (real-time)
 - RAG systems (vector search, hybrid retrieval)
