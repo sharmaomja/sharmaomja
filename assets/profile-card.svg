@@ -31,46 +31,60 @@
   <g transform="translate(88 183) rotate(-3 140 165)">
     <rect x="-7" y="-7" width="274" height="324" rx="12" fill="#fff" stroke="#cdbcd5" stroke-width="2"/>
     <g clip-path="url(#portrait)">
-      <rect width="260" height="310" fill="#e7dff2"/>
-      <circle cx="133" cy="117" r="97" fill="#f6e8c8"/>
-      <path d="M41 175C15 111 37 30 91 21C125 0 185 15 208 52C229 87 215 126 233 181C249 229 230 264 242 318H20C17 260 14 224 41 175Z" fill="#302b35" stroke="#42333e" stroke-width="3"/>
-      <path d="M28 310C30 250 57 222 97 217H167C209 225 235 252 238 310" fill="#e5b79b"/>
-      <path d="M107 180L104 229Q130 252 159 229L155 180" fill="#e5b79b" stroke="#ca977e" stroke-width="2"/>
-      <path d="M49 260L80 241Q129 261 182 241L216 264L228 321H36Z" fill="#272832"/>
-      <path d="M86 232L81 257M179 232L184 257" stroke="#272832" stroke-width="10" stroke-linecap="round"/>
-      <ellipse cx="70" cy="128" rx="12" ry="19" fill="#edc2a8"/>
-      <ellipse cx="190" cy="128" rx="12" ry="19" fill="#edc2a8"/>
-      <path d="M73 94Q75 48 129 43Q183 46 189 95L188 149C188 184 161 205 132 205C101 205 75 184 72 151Z" fill="#f0c9b0" stroke="#d0a08a" stroke-width="2"/>
-      <path d="M65 113Q55 44 116 32Q137 28 143 37Q106 46 91 80L73 129Z" fill="#302b35"/>
-      <path d="M135 37Q181 29 200 76L201 157L184 126Q186 73 135 37Z" fill="#302b35"/>
-      <g fill="none" stroke="#4d3536" stroke-linecap="round">
-        <path d="M87 110Q101 103 113 109M148 109Q163 103 176 111" stroke-width="3"/>
-        <path d="M88 125Q101 114 114 125M148 125Q162 114 175 125" stroke-width="2.8"/>
-        <path d="M89 122L86 119M173 122L176 119" stroke-width="2"/>
+      <rect width="260" height="310" fill="#f5e3ef"/>
+      <circle cx="130" cy="137" r="109" fill="#fff6ed"/>
+      <ellipse cx="132" cy="285" rx="90" ry="10" fill="#deccdf"/>
+      <!-- Oversized head and a small bust give the portrait a sticker silhouette. -->
+      <path d="M35 139C13 80 43 22 95 24C118 9 169 14 194 39C230 61 230 103 221 139C216 162 237 175 225 199C215 219 236 237 220 257C201 278 62 282 41 260C19 238 44 222 32 202C17 177 42 164 35 139Z" fill="#342d3b" stroke="#fff" stroke-width="12" stroke-linejoin="round"/>
+      <path d="M35 139C13 80 43 22 95 24C118 9 169 14 194 39C230 61 230 103 221 139C216 162 237 175 225 199C215 219 236 237 220 257C201 278 62 282 41 260C19 238 44 222 32 202C17 177 42 164 35 139Z" fill="#342d3b" stroke="#514054" stroke-width="2.5"/>
+      <path d="M73 281V251Q76 225 108 223H153Q185 225 189 251V281Z" fill="#ffe2d1" stroke="#d5a998" stroke-width="2"/>
+      <path d="M115 199V226Q130 240 146 226V199" fill="#f8d4c1" stroke="#d5a998" stroke-width="2"/>
+      <path d="M84 245L91 236Q130 256 171 236L180 245L187 281H76Z" fill="#33313f"/>
+      <path d="M93 232V248M168 232V248" stroke="#33313f" stroke-width="7" stroke-linecap="round"/>
+      <ellipse cx="53" cy="139" rx="12" ry="17" fill="#ffe2d1" stroke="#d5a998" stroke-width="2"/>
+      <ellipse cx="207" cy="139" rx="12" ry="17" fill="#ffe2d1" stroke="#d5a998" stroke-width="2"/>
+      <path d="M53 115C53 72 87 44 130 44C174 44 208 74 208 115L207 149C206 186 171 212 130 212C89 212 54 186 53 149Z" fill="#ffe2d1" stroke="#d5a998" stroke-width="2"/>
+      <!-- Side-swept, center-parted hair keeps a link to the reference photo. -->
+      <path d="M46 131C28 75 58 25 103 26Q124 21 134 33C115 46 101 63 89 77C77 91 62 97 55 131Z" fill="#342d3b"/>
+      <path d="M132 33C163 22 207 44 215 86Q220 112 207 139C204 104 182 92 166 72Q150 47 132 33Z" fill="#342d3b"/>
+      <g fill="none" stroke="#665268" stroke-width="3" stroke-linecap="round">
+        <path d="M112 36Q65 42 50 91M151 37Q194 48 204 85"/>
+        <path d="M47 157C66 188 32 200 49 222C63 241 44 248 58 259"/>
+        <path d="M211 158C193 186 229 202 213 223C198 244 218 247 204 259"/>
       </g>
-      <ellipse cx="102" cy="125" rx="6.2" ry="7.5" fill="#453239"/>
-      <ellipse cx="162" cy="125" rx="6.2" ry="7.5" fill="#453239"/>
-      <circle cx="104" cy="122" r="2.2" fill="#fffafd"/>
-      <circle cx="164" cy="122" r="2.2" fill="#fffafd"/>
-      <circle cx="100" cy="128" r="1" fill="#f0c9b0"/>
-      <circle cx="160" cy="128" r="1" fill="#f0c9b0"/>
-      <path d="M132 135L129 145Q133 149 138 145" fill="none" stroke="#ca977e" stroke-width="2" stroke-linecap="round"/>
-      <ellipse cx="92" cy="149" rx="15" ry="9" fill="#e9a0a7" opacity=".52"/>
-      <ellipse cx="171" cy="149" rx="15" ry="9" fill="#e9a0a7" opacity=".52"/>
-      <path d="M114 166Q132 175 151 165Q134 187 118 174Z" fill="#ce8493"/>
-      <path d="M114 166Q132 175 151 165" fill="none" stroke="#a65f75" stroke-width="2" stroke-linecap="round"/>
-      <g fill="#302b35" stroke="#423841" stroke-width="2">
-        <path d="M71 110C65 153 89 175 70 209C53 236 91 253 70 283C54 302 65 318 74 328L31 324C14 279 41 261 31 229C23 203 47 179 41 153Z"/>
-        <path d="M190 102C199 137 180 164 199 190C224 218 192 243 209 266C230 296 207 313 197 324L235 326C261 297 230 269 241 243C251 211 223 190 226 158Z"/>
+      <g fill="none" stroke="#68505c" stroke-width="2.8" stroke-linecap="round">
+        <path d="M77 116Q88 109 101 114M159 114Q173 109 184 116"/>
       </g>
-      <g fill="none" stroke="#5a4b53" stroke-width="2.5" stroke-linecap="round" opacity=".8">
-        <path d="M106 35C57 50 50 95 55 137M62 161C79 200 40 213 54 243C69 272 42 283 54 300"/>
-        <path d="M159 36C211 62 201 105 211 138M207 159C197 191 235 210 218 238C202 265 235 280 218 302"/>
-        <path d="M44 179Q29 201 41 224M223 253Q236 269 231 282"/>
+      <g fill="#463440">
+        <ellipse cx="91" cy="139" rx="10" ry="13"/>
+        <ellipse cx="170" cy="139" rx="10" ry="13"/>
       </g>
-      <g fill="none" stroke="#fffafd" stroke-width="2.5" stroke-linecap="round">
-        <path d="M22 47V63M14 55H30M234 81V93M228 87H240"/>
+      <g fill="none" stroke="#463440" stroke-width="2.8" stroke-linecap="round">
+        <path d="M83 131L79 127M178 131L182 127"/>
       </g>
+      <g fill="#fffafd">
+        <ellipse cx="94" cy="134" rx="3.7" ry="4"/>
+        <ellipse cx="173" cy="134" rx="3.7" ry="4"/>
+        <circle cx="88" cy="144" r="1.8"/>
+        <circle cx="167" cy="144" r="1.8"/>
+      </g>
+      <ellipse cx="76" cy="160" rx="16" ry="9" fill="#f4b1bd" opacity=".75"/>
+      <ellipse cx="185" cy="160" rx="16" ry="9" fill="#f4b1bd" opacity=".75"/>
+      <path d="M130 149Q125 155 132 156" fill="none" stroke="#d5a998" stroke-width="2" stroke-linecap="round"/>
+      <path d="M119 173Q130 186 142 173" fill="#e89aa9" stroke="#a56980" stroke-width="2.3" stroke-linecap="round"/>
+      <g stroke="#de91aa" stroke-width="1.6" stroke-linecap="round">
+        <path d="M69 159L68 163M76 159L75 163M183 159L182 163M190 159L189 163"/>
+      </g>
+      <!-- A tiny ribbon hair clip is the portrait's one playful accessory. -->
+      <g transform="translate(196 68) rotate(22)" stroke="#af7194" stroke-width="2" stroke-linejoin="round">
+        <path d="M0 0C-26-21-30-4-21 9Q-13 15 0 0C14-24 29-19 24-3Q20 12 0 0Z" fill="#edb3d2"/>
+        <ellipse rx="5" ry="6" fill="#f6cce1"/>
+      </g>
+      <g fill="#fffafd" stroke="#c5a0c4" stroke-width="1.5" stroke-linejoin="round">
+        <path d="M24 87L27 96L36 99L27 102L24 111L21 102L12 99L21 96Z"/>
+        <path d="M231 213L234 220L241 223L234 226L231 233L228 226L221 223L228 220Z"/>
+      </g>
+      <path d="M24 240C12 229 14 219 22 222Q26 222 28 227Q36 217 41 225C46 232 34 239 24 245Z" fill="#eeb6ce"/>
     </g>
   </g>
 
