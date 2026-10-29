@@ -1,70 +1,76 @@
 <div align="center">
-  
-# Omja Ujesha Jetshree
 
-**Full-stack developer** — building AI-powered, scalable products with MERN, Django, and modern stacks.
+<img src="./assets/profile-card.svg" width="900" alt="Omja Ujesha Jetshree's pastel developer ID card, with a hand-drawn portrait. Full-stack developer building AI-powered apps, voice, chat, and real-time experiences." />
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rudeee_egg)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/omjasharma)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:omjasharma15@gmail.com)
+<br />
+<br />
+
+<a href="https://linkedin.com/in/omjasharma">linkedin ↗</a> &nbsp; · &nbsp;
+<a href="https://instagram.com/rudeee_egg">instagram ↗</a> &nbsp; · &nbsp;
+<a href="mailto:omjasharma15@gmail.com">say hello ♡</a>
 
 </div>
 
+<br />
+
+### 🌷 behind the little ID card
+
+I'm **Omja**, a full-stack developer building AI-powered products with **MERN and Python**. I work across interfaces, APIs, and the systems behind them — especially when there's a conversation involved.
+
+My favorite problems live somewhere between **retrieval, voice, and real-time AI**.
+
+<br />
+
+### 🪄 what i'm building
+
+- **AI-native apps** — full-stack products with LLMs in the loop.
+- **Voice & chat interfaces** — streaming STT → LLM → TTS, with memory and tools.
+- **RAG systems** — vector search, hybrid retrieval, and context-aware answers.
+- **Scalable backends** — async APIs and event-driven systems.
+
+<br />
+
+### 🧸 the toolkit
+
+| In my toolbox | Technologies |
+| :--- | :--- |
+| Languages | JavaScript · TypeScript · Python |
+| Interfaces | React · Next.js · Tailwind CSS · React Native |
+| APIs & real-time | Node.js · Express · Django · FastAPI · Socket.io |
+| Data | PostgreSQL · MySQL · Redis · Prisma |
+| AI | OpenAI · PyTorch · TensorFlow |
+| Shipping & design | AWS · Vercel · Git · Figma |
+
+<details>
+<summary>A peek at the rest of my toolbox</summary>
+
+<br />
+
+**Languages:** C · Java · HTML · CSS  
+**Frontend:** Three.js · MUI · Ant Design · DaisyUI · Styled Components · Framer · Vite · Web3.js  
+**Backend:** Flask · JWT · Nginx · Apache · Gunicorn  
+**Data & hosting:** Firebase · PlanetScale · Google Cloud · DigitalOcean · Netlify · Heroku  
+**AI & data science:** Keras · Pandas · NumPy  
+**Tools:** GitHub · Postman · Canva · Dribbble
+
+</details>
+
+<br />
+
+### 🌱 currently curious about
+
+**Agentic workflows**, retrieval reranking & evals, LLMOps & observability, and edge / real-time inference.
+
+How can an assistant find better context, use the right tool, and respond without making you wait? That's the kind of thing I'm exploring.
+
+<br />
+
 ---
 
-## 💻 What I build
-- AI-native apps (MERN / Django + LLMs)
-- Voice + chat interfaces (real-time)
-- RAG systems (vector search, hybrid retrieval)
-- Scalable backends (async, event-driven)
+<div align="center">
 
-## 🎙️ Voice + AI
-- STT → LLM → TTS pipelines
-- Streaming + low-latency responses
-- Context-aware assistants (memory + tools)
+<sub>Thanks for visiting my little corner of GitHub.</sub>
 
-## 🧠 Exploring
-- Agentic workflows (multi-step, tool use)
-- Advanced RAG (reranking, evals)
-- LLMOps + observability
-- Edge / real-time inference
+**Have something in mind? [Let's build it ↗](mailto:omjasharma15@gmail.com)**
 
-## 👤 About
-Omja — full-stack dev building AI systems with MERN + Python.  
-Focused on RAG, voice, and real-time AI.
----
-
-## 💻 Tech stack
-
-**Languages**  
-`C` `CSS3` `HTML5` `Java` `JavaScript` `TypeScript` `Python`
-
-**Frontend & UI**  
-`React` `Next.js` `Three.js` `TailwindCSS` `MUI` `Ant-Design` `DaisyUI` `Styled Components` `Framer` `React Native` `Vite` `Web3.js`
-
-**Backend & APIs**  
-`Node.js` `Express` `Django` `FastAPI` `Flask` `JWT` `Socket.io` `Nginx` `Apache` `Gunicorn`
-
-**Databases & ORM**  
-`PostgreSQL` `MySQL` `Redis` `Firebase` `Prisma` `PlanetScale`
-
-**Cloud & DevOps**  
-`AWS` `Google Cloud` `DigitalOcean` `Vercel` `Netlify` `Heroku` `Git` `GitHub`
-
-**AI/ML**  
-`OpenAI` `TensorFlow` `PyTorch` `Keras` `Pandas` `NumPy`
-
-**Design & Tools**  
-`Figma` `Canva` `Dribbble` `Postman`
-
----
-
-## 📊 GitHub stats
-
-![](https://github-readme-stats.vercel.app/api?username=sharmaomja&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=sharmaomja&theme=dark&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sharmaomja&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=sharmaomja&icon=0&color=0)](https://visitcount.itsvg.in)
+</div>
