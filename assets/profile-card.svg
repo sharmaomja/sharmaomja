@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="600" viewBox="0 0 1000 600" role="img" aria-labelledby="title description">
+  <title id="title">Omja's developer ID card</title>
+  <desc id="description">A pink and lilac developer ID card with an illustrated portrait inspired by Omja: long dark wavy hair, a warm smile, and a black top. Omja Ujesha Jetshree, full-stack developer building AI, voice, and real-time apps.</desc>
+  <defs>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#e5daef" stroke-width="1"/>
+    </pattern>
+    <clipPath id="portrait"><rect x="0" y="0" width="260" height="310" rx="9"/></clipPath>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="150%">
+      <feDropShadow dx="0" dy="9" stdDeviation="0" flood-color="#d7c5e2"/>
+    </filter>
+  </defs>
+
+  <rect width="1000" height="600" rx="28" fill="#f5effa"/>
+  <rect width="1000" height="600" rx="28" fill="url(#grid)"/>
+
+  <!-- The lanyard and slot make this a little keepsake, not a dashboard. -->
+  <path d="M448 0L478 75H521L554 0" fill="#c2b0dc" stroke="#735987" stroke-width="3"/>
+  <path d="M474 0L495 59H506L528 0" fill="#f5effa"/>
+  <rect x="53" y="62" width="894" height="480" rx="32" fill="#fffafd" stroke="#715a7c" stroke-width="3" filter="url(#shadow)"/>
+  <path d="M86 63H914Q946 63 946 95V157H54V95Q54 63 86 63Z" fill="#f4d5e2"/>
+  <path d="M55 157H945" stroke="#715a7c" stroke-width="2"/>
+  <rect x="458" y="83" width="84" height="15" rx="7.5" fill="#715a7c"/>
+  <rect x="469" y="86" width="62" height="5" rx="2.5" fill="#473951"/>
+  <g fill="#55415f" font-family="'Trebuchet MS', Arial, sans-serif">
+    <text x="88" y="131" font-size="20" font-weight="700" letter-spacing="3">THE DEVELOPER CLUB</text>
+    <text x="910" y="131" font-size="18" text-anchor="end" letter-spacing="2">MEMBER / OMJA</text>
+  </g>
+
+  <!-- Hand-drawn portrait; no embedded photograph or external image requests. -->
+  <g transform="translate(88 183) rotate(-3 140 165)">
+    <rect x="-7" y="-7" width="274" height="324" rx="12" fill="#fff" stroke="#cdbcd5" stroke-width="2"/>
+    <g clip-path="url(#portrait)">
+      <rect width="260" height="310" fill="#e7dff2"/>
+      <circle cx="133" cy="117" r="97" fill="#f6e8c8"/>
+      <path d="M41 175C15 111 37 30 91 21C125 0 185 15 208 52C229 87 215 126 233 181C249 229 230 264 242 318H20C17 260 14 224 41 175Z" fill="#302b35" stroke="#42333e" stroke-width="3"/>
+      <path d="M28 310C30 250 57 222 97 217H167C209 225 235 252 238 310" fill="#c99575"/>
+      <path d="M107 180L104 229Q130 252 159 229L155 180" fill="#c99575" stroke="#a46f56" stroke-width="2"/>
+      <path d="M49 260L80 241Q129 261 182 241L216 264L228 321H36Z" fill="#272832"/>
+      <path d="M86 232L81 257M179 232L184 257" stroke="#272832" stroke-width="10" stroke-linecap="round"/>
+      <ellipse cx="70" cy="128" rx="12" ry="19" fill="#d8a181"/>
+      <ellipse cx="190" cy="128" rx="12" ry="19" fill="#d8a181"/>
+      <path d="M73 94Q75 48 129 43Q183 46 189 95L185 150Q180 190 134 207Q88 201 74 157Z" fill="#dca887" stroke="#b67d62" stroke-width="2"/>
+      <path d="M65 113Q55 44 116 32Q137 28 143 37Q106 46 91 80L73 129Z" fill="#302b35"/>
+      <path d="M135 37Q181 29 200 76L201 157L184 126Q186 73 135 37Z" fill="#302b35"/>
+      <g fill="none" stroke="#4d3536" stroke-linecap="round">
+        <path d="M87 112Q101 103 113 111M148 111Q163 103 176 114" stroke-width="4"/>
+        <path d="M88 125Q101 116 113 126M149 125Q162 117 174 126" stroke-width="3"/>
+      </g>
+      <ellipse cx="102" cy="125" rx="4" ry="5" fill="#382c31"/>
+      <ellipse cx="162" cy="125" rx="4" ry="5" fill="#382c31"/>
+      <circle cx="103" cy="123" r="1.4" fill="#fffafd"/>
+      <circle cx="163" cy="123" r="1.4" fill="#fffafd"/>
+      <path d="M132 130L127 147Q132 152 140 147" fill="none" stroke="#b67d62" stroke-width="2.5" stroke-linecap="round"/>
+      <ellipse cx="93" cy="149" rx="13" ry="7" fill="#d78789" opacity=".43"/>
+      <ellipse cx="169" cy="149" rx="13" ry="7" fill="#d78789" opacity=".43"/>
+      <path d="M107 165Q133 178 157 163Q136 190 112 174Z" fill="#b96d78"/>
+      <path d="M108 165Q131 175 156 163" fill="none" stroke="#864e5b" stroke-width="2" stroke-linecap="round"/>
+      <g fill="#302b35" stroke="#423841" stroke-width="2">
+        <path d="M71 110C65 153 89 175 70 209C53 236 91 253 70 283C54 302 65 318 74 328L31 324C14 279 41 261 31 229C23 203 47 179 41 153Z"/>
+        <path d="M190 102C199 137 180 164 199 190C224 218 192 243 209 266C230 296 207 313 197 324L235 326C261 297 230 269 241 243C251 211 223 190 226 158Z"/>
+      </g>
+      <g fill="none" stroke="#5a4b53" stroke-width="2.5" stroke-linecap="round" opacity=".8">
+        <path d="M106 35C57 50 50 95 55 137M62 161C79 200 40 213 54 243C69 272 42 283 54 300"/>
+        <path d="M159 36C211 62 201 105 211 138M207 159C197 191 235 210 218 238C202 265 235 280 218 302"/>
+        <path d="M44 179Q29 201 41 224M223 253Q236 269 231 282"/>
+      </g>
+      <g fill="none" stroke="#fffafd" stroke-width="2.5" stroke-linecap="round">
+        <path d="M22 47V63M14 55H30M234 81V93M228 87H240"/>
+      </g>
+    </g>
+  </g>
+
+  <g font-family="'Trebuchet MS', Arial, sans-serif" fill="#55415f">
+    <text x="397" y="209" font-size="17" letter-spacing="3" fill="#876a93">HELLO, WORLD. I'M</text>
+    <text x="393" y="274" font-size="65" font-weight="700">omja<tspan fill="#be718e">.</tspan></text>
+    <text x="397" y="309" font-size="23">Omja Ujesha Jetshree</text>
+    <rect x="397" y="331" width="258" height="37" rx="18.5" fill="#e8def3"/>
+    <text x="526" y="356" text-anchor="middle" font-size="19" font-weight="700">full-stack developer</text>
+    <text x="397" y="406" font-size="23">AI-powered apps.</text>
+    <text x="397" y="438" font-size="23">Voice, chat &amp; real-time things.</text>
+    <path d="M397 461H902" stroke="#ddcddd" stroke-width="2" stroke-dasharray="5 7"/>
+    <text x="397" y="497" font-size="18" fill="#80618b">MERN + Python</text>
+    <text x="901" y="497" text-anchor="end" font-size="18" fill="#80618b">@sharmaomja</text>
+  </g>
+
+  <!-- A small flower sticker, rather than a wall of decorative badges. -->
+  <g transform="translate(860 242) rotate(13)" stroke="#a77590" stroke-width="2">
+    <path d="M0-12C-23-39-39-9-19 3C-43 20-17 42-4 22C6 48 34 30 21 11C48 4 33-27 13-17C12-36-6-35 0-12Z" fill="#f1c5d8"/>
+    <circle cx="3" cy="5" r="10" fill="#f5df9e"/>
+  </g>
+  <text x="500" y="582" text-anchor="middle" font-family="'Trebuchet MS', Arial, sans-serif" font-size="17" fill="#80618b">a small corner of the internet, made mine.</text>
+</svg>
